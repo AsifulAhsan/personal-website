@@ -6,7 +6,7 @@ import { NavBar } from '@/components/NavBar';
 
 
 export const metadata: Metadata = {
-  title: 'Muideen Lawal',
+  title: 'Asiful Ahsan',
   description: 'Portfolio website',
 }
 

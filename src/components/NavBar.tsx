@@ -15,7 +15,7 @@ function NavBar() {
                 <div className="flex lg:flex-1">
                     <Link href="/" className="flex items-center gap-x-2">
                         <Image src="/img/icon.png" width={32} height={32} priority={false} className="rounded-lg" alt="muideen photo" />
-                        <span className="hidden lg:block">Muideen</span>
+                        <span className="hidden lg:block">Asiful</span>
                     </Link>
                 </div>
                 <div className="flex gap-x-4 pr-2">

@@ -20,7 +20,7 @@ function Hero() {
         <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-16 mx-4">
           <div className="item space-y-20">
             <div>
-              <h1 className="text-3xl">Hey! I'm Asiful Ahsan</h1>
+              <h1 className="text-3xl">Hi! I'm Asiful Ahsan</h1>
               <p className="text-zinc-600">Aspiring Software <span className="font-bricolage-grostesque text-transparent bg-clip-text bg-gradient-to-r from-[#f60] to-[#f00ab3]">Engineer</span> based in Bangladesh</p>
               <Social />
             </div>
